@@ -16,11 +16,11 @@ While the workshop focuses on books, the skills you'll gain are versatile and ap
 Here's what you'll find in this repository:
 
 - 📂 data: All the datasets you need to work through the exercises. You can also bring your own PDFs for a more personal touch!
-- 📓 notebooks: Step-by-step guides to get you up and running with RAG basics.
-- 💬 chat: The final chat application you'll build after completing the notebooks. 
+- 📓 tasks: Step-by-step guides to get you up and running with RAG basics.
+- 💬 solution: The final solution. 
 
 The final app could look like this:
-![](.github/demo.gif)
+![](.github/resources/demo.gif)
 
 ## Getting Started
 Ready to dive in? Check out this video tutorial for instructions on how to get started! 👇
