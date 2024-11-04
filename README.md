@@ -20,12 +20,13 @@ Here's what you'll find in this repository:
 - 💬 solution: The final solution. 
 
 The final app could look like this:
-![](.github/resources/demo.gif)
+
+<img src=".github/resources/demo.gif" alt="Demo" width="800"/>
 
 ## Getting Started
 Ready to dive in? This repository is set up with **Dev Containers**, so we recommend using **Codespaces** for the best experience:
 
-![Getting Started](.github/resources/getting_started.png)
+<img src=".github/resources/getting_started.png" alt="Getting Started" width="800"/>
 
 For a quick walkthrough on getting started, check out this video tutorial below! 👇  
 - [Watch the video tutorial](Link to video)
