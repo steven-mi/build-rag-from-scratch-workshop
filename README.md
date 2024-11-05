@@ -28,9 +28,6 @@ Ready to dive in? This repository is set up with **Dev Containers**, so we recom
 
 <img src=".github/resources/getting_started.png" alt="Getting Started" width="800"/>
 
-For a quick walkthrough on getting started, check out this video tutorial below! 👇  
-- [Watch the video tutorial](Link to video)
-
 ## Credits
 This workshop uses a single chapter from the book **The Food Lab: Better Home Cooking Through Science (2015, J. Kenji Lopez-Alt)**. The book can be purchased on [Amazon](https://www.amazon.de/-/en/J-Kenji-Lopez-Alt/dp/0393081087)
 
